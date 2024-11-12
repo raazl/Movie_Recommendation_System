@@ -36,7 +36,7 @@ Matplotlib and Seaborn: For data visualization.
 
 The model can suggest Movies for any new individual based on their input. User need to run the model and give an input to get the Movie recommendation.
 
-## Reult
+## Result
 
 User will find a good movie list based on their taste
 
